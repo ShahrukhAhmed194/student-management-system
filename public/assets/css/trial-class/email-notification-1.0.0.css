@@ -1,0 +1,62 @@
+.dark-mode .bg-5574fa {
+    background-color: #5574fa !important;
+  }
+  .dark-mode .color-333333 {
+    color: #333333 !important;
+  }
+  .dark-mode .color-fffffe {
+    color: #fffffe !important;
+  }
+  .dark-mode .bg-whitesmoke {
+    background-color: whitesmoke !important;
+  }
+  .dark-mode .color-3e3e3e {
+    color: #3e3e3e !important;
+  }
+  .dark-mode .color-000001 {
+    color: #000001 !important;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html:not(.light-mode) .bg-5574fa {
+      background-color: #5574fa !important;
+    }
+    html:not(.light-mode) .color-333333 {
+      color: #333333 !important;
+    }
+    html:not(.light-mode) .color-fffffe {
+      color: #fffffe !important;
+    }
+    html:not(.light-mode) .bg-whitesmoke {
+      background-color: whitesmoke !important;
+    }
+    html:not(.light-mode) .color-3e3e3e {
+      color: #3e3e3e !important;
+    }
+    html:not(.light-mode) .color-000001 {
+      color: #000001 !important;
+    }
+  }
+
+  [data-ogsc] .bg-5574fa {
+    background-color: #5574fa !important;
+  }
+  [data-ogsc] .color-333333 {
+    color: #333333 !important;
+  }
+  [data-ogsc] .color-fffffe {
+    color: #fffffe !important;
+  }
+  [data-ogsc] .bg-whitesmoke {
+    background-color: whitesmoke !important;
+  }
+  [data-ogsc] .color-3e3e3e {
+    color: #3e3e3e !important;
+  }
+  [data-ogsc] .color-000001 {
+    color: #000001 !important;
+  }
+
+  u + div .kombai-email-compat__list-with-padding-left {
+    padding-left: 0.5em !important;
+  }
