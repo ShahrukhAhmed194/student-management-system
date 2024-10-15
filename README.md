@@ -1,1 +1,1 @@
-# dreamers-academy
+# Student Management System
